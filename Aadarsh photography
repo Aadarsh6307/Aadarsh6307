@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aadarsh Photography</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="animated-title">Aadarsh Photography</h1>
+        <div class="gallery">
+            <img src="IMG_20240826_063137.jpg" alt="Nature Image 1">
+            <img src="IMG_20240526_185915.jpg" alt="Nature Image 2">
+            <img src="IMG_20240525_220425.jpg" alt="Statue Image">
+        </div>
